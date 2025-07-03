@@ -1,6 +1,6 @@
 # Motivational Interviewing System Prompt for Misinformation Detection
 
-This repository contains two versions (prompt.html and prompt.json) of a carefully designed system prompt used for guiding a local LLM (via Ollama) in detecting and addressing misinformation in German politics** through the lens of Motivational Interviewing (MI).
+This repository contains two versions (prompt.html and prompt.json) of a carefully designed system prompt used for guiding a local LLM (via Ollama) in detecting and addressing misinformation in German politics through the lens of Motivational Interviewing (MI).
 
 ## Project Context
 
